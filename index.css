@@ -1,0 +1,13 @@
+
+#header{
+    display: flex;
+    align-items: center;
+}
+#nav_bar{
+    display: flex;
+    align-items: center;
+}
+
+img{
+    max-width: 100%;
+}
