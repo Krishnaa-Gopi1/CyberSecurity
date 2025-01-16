@@ -4,8 +4,14 @@
     background-color: #eb6734;
     color: #0e0d21;
     font-family: "Jersey 15", serif;
-    font-weight: 400;
+    font-weight:400;
     font-style: normal;
+    font-size: 38px;
+    padding-top: 5px;
+}
+
+#title{
+    padding-left: 15px;
 }
 
 .nav_bar{
@@ -27,6 +33,7 @@ li a{
     text-align: center;
     text-decoration: none;
     padding: 4px;
+    font-size: 20px;
     
     
 }
