@@ -35,6 +35,17 @@ li a:hover{
     background-color: black;
 }
 
+body{
+    font-family: "Kanit", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h2{
+    text-decoration: underline #eb6734;
+    text-decoration-thickness: 2px; ;
+}
+
 img{
     max-width: 100%;
 }
