@@ -1,8 +1,8 @@
 
 
 .head{
-    background-color: #eb6734;
-    color: #0e0d21;
+    background-color: #2C5F2D;
+    color: #97BC62;
     font-family: "Jersey 15", serif;
     font-weight:400;
     font-style: normal;
@@ -19,7 +19,7 @@
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #97BC62;
 
 }
 
@@ -39,7 +39,7 @@ li a{
 }
 
 li a:hover{
-    background-color: black;
+    background-color: #2C5F2D;
 }
 
 body{
@@ -49,7 +49,7 @@ body{
 }
 
 h2{
-    text-decoration: underline #eb6734;
+    text-decoration: underline #97BC62;
     text-decoration-thickness: 2px; ;
 }
 
